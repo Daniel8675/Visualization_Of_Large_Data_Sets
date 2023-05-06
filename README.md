@@ -1,2 +1,3 @@
 # Visualization_Of_Large_Data_Sets
-Visualization_Of_Large_Data_Sets_2022/2023
+
+Tasks for the Visualization Of Large Data Sets course.
